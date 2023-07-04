@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SoulSnatcher187
-- 👀 I’m interested in front-end engineering
-- 🌱 I’m currently learning Tailwind.
-- JavaScript, React, 
+- 👀 I’m interested in front-end engineering.
+- JavaScript, React, NodeJS, Express , SASS, HTML, SCSS , CSS :)
 - 📫 How to reach me: xuij777@gmail.com
 
 <!---
