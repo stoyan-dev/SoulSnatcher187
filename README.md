@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SoulSnatcher187
 - 👀 I’m interested in front-end engineering.
-- JavaScript, MongoDB , Express, React, NodeJS ;) 
+- JavaScript, MongoDB , Express, React, NodeJS ;)
+- No TypeScript, no party! 
 - 📫 How to reach me: stoyandev@yahoo.com
 
 <!---
